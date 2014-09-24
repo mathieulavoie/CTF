@@ -1,4 +1,4 @@
 CTF
 ===
 
-Contains Write-ups, Presentation and tools related or used in CTF
+Contains Write-ups, Presentation and Tools related or used in CTF
